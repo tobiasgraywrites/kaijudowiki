@@ -1,6 +1,6 @@
 # Kaijudo Wiki
 
-moving away from nloated, ad-infested MediaWiki to a solution that ideally anyone can contribute and fork. Will likely undergo several different attempts using both markdown files and the wiki features of github as we experiment. 
+moving away from bloated, ad-infested MediaWiki farms to a solution that ideally anyone can contribute and fork. Will likely undergo several different attempts using both markdown files and the wiki features of github as we experiment. 
 
 # License
 
